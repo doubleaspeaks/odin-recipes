@@ -1,0 +1,1 @@
+This the first Odin Proejct project, setting up a simple recipe website. Made using HTML and CSS with VScode.
